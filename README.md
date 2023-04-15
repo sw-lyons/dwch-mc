@@ -24,5 +24,6 @@ Cloudflared - `choco install cloudflared`
 ![](https://files.readme.io/5f9dde7-image.png)
 
 ## You're connected! Now you can access the Minecraft server through your local port
+## Important! The Server address will be 127.0.0.1:9210
 
-![](https://files.readme.io/19441a3-image.png)
+![image](https://user-images.githubusercontent.com/30090013/232256536-e8a5006b-2c22-4aeb-9b56-d86c48a7540d.png)

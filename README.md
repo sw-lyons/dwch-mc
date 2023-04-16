@@ -2,6 +2,7 @@
 
 Chocolatey - <https://chocolatey.org/install>  
 Cloudflared - `choco install cloudflared`
+FTB Launcher - <https://www.feed-the-beast.com/ftb-app>
 
 # Connecting
 

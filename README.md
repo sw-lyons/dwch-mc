@@ -1,7 +1,7 @@
 # 📝 Requirements
 
 Chocolatey - <https://chocolatey.org/install>  
-Cloudflared - `choco install cloudflared` <br>
+Cloudflared - `choco install cloudflared` (run in powershell) <br>
 FTB Launcher - <https://www.feed-the-beast.com/ftb-app>
 
 # Connecting

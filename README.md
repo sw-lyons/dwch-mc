@@ -12,7 +12,7 @@ FTB Launcher - <https://www.feed-the-beast.com/ftb-app>
 
 ## Paste the following code into the text field, and hit Next
 
-FTB Stoneblock 3: `cloudflared access tcp --hostname mc.dwch.xyz --url localhost:9210`
+FTB Stoneblock 3: `cloudflared access tcp --hostname mc.dwch.xyz --url localhost:9210`<br>
 FTB Skies: `cloudflared access tcp --hostname mc2.dwch.xyz --url localhost:9210`
 
 ![](https://files.readme.io/e5b93a9-image.png)

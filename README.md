@@ -12,7 +12,7 @@ FTB Launcher - <https://www.feed-the-beast.com/ftb-app>
 
 ## Paste the following code into the text field, and hit Next
 
-FTB Divine Journey 2: `cloudflared access tcp --hostname mc.dwch.xyz --url localhost:9210`<br>
+FTB Presents Integration by Parts DX: `cloudflared access tcp --hostname mc.dwch.xyz --url localhost:9210`<br>
 
 
 ![](https://files.readme.io/e5b93a9-image.png)

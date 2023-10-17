@@ -10,7 +10,7 @@ Download and run this minecraft modpack.
 
 # 🔗 Connecting
 
-Once you have the modpack open, all you have to do is click "multiplayer" in the main menu and then "Add Server". Once there, the Server Name can be anything and put in the Server Address:
+Once you have the modpack open, click "multiplayer" in the main menu and then "Add Server". Once there, the Server Name can be anything and put in the Server Address:
 
  **mc2.dwch.xyz**
 
